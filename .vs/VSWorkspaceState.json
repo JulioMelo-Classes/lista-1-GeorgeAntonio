@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\negativos5",
-    "\\negativos5\\src"
+    "\\soma_vizinhos",
+    "\\soma_vizinhos\\src"
   ],
+  "SelectedNode": "\\soma_vizinhos\\src\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
