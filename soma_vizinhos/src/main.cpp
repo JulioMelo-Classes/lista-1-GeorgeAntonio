@@ -8,7 +8,10 @@
 using std::cout;
 using std::cin;
 using std::endl;
-
+/*
+Como a lógica para dois pares está ok vou considerar 50%
+mas a ideia aqui era executar o cin indefinidamente enquanto houvessem entradas
+*/
 int main() {
     int n, m, cont = 0, som;
     std::cin >> n;
